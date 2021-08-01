@@ -1,0 +1,2 @@
+# SlaytheSpireData
+SlaytheSpireData
