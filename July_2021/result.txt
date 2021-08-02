@@ -1,0 +1,23 @@
+Victory count: 3
+Overall runs: 29
+Winrate: 0.10344827586206896
+Average Floor Reached: 31.310344827586206
+Average Cards removed: 0.9310344827586207
+Average Score: 912.6896551724138
+Average Card count: 24.82758620689655
+Average Relic count: 10.344827586206897
+Average Item Purchused: 4.0344827586206895
+Average Max HP: 75.86206896551724
+Average Monster fight encounters: 10.413793103448276
+Average Elite fight encounters: 4.862068965517241
+Average Camp encounters: 4.586206896551724
+Average Camp Upgrade count: 3.413793103448276
+Average Camp Rest count: 0.7586206896551724
+Average Event encounters: 4.206896551724138
+Average Merchant encounters: 2.1379310344827585
+Average Potions counts: 7.551724137931035
+Average Overall A1 Damage Taken: 80.82758620689656
+Average Overall A2 Damage Taken: 70.20689655172414
+Average Overall A3 Damage Taken: 51.58620689655172
+Average Overall A4 Damage Taken: 8.068965517241379
+Average Overall Boss Damage Taken: 13.931034482758621
